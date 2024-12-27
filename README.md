@@ -1,14 +1,6 @@
 ## Weather Dashboard
 
-[https://weather.aniqa.dev/](https://weather.aniqa.dev)
-
 🌤️ A detailed light and dark mode dashboard with a complete overview of live weather conditions in the specified city. Option to toggle weather data between Celsius and Fahrenheit units. Sidebar with random major cities weather. Built using the OpenWeather API.
-
-## Light Mode
-<a href="https://weather.aniqa.dev" target="_blank"><img src="https://github.com/aniqatc/weather/blob/main/assets/og-img.png?raw=true" style="max-width: 100%;"></a>
-
-## Dark Mode
-<a href="https://weather.aniqa.dev" target="_blank"><img src="/assets/screenshot-dark.png" style="max-width: 100%;"></a>
 
 ## Tech
 
@@ -57,17 +49,3 @@
 - ✅ Refactor code (after learning new concepts)
 - ✅ Add option to download as PWA
 
-## Changelog
-### 11/07/2023
-
-- **Custom Search Suggestions**: Implemented a feature where search suggestions are dynamically generated and appear as the user types, enhancing the user experience by providing immediate, relevant suggestions to aid in the discovery of weather for over 200K cities; additionally, added `searchManager` object to handle user queries from
-- **WeatherService Class**: Enhanced API handling within the `WeatherService` class to streamline data fetching processes
-- **ThemeManager Object**: Simplified theme management in the `themeManager`
-- **TimeManager Object** - Centralized all time-related manipulations within the `timeManager` object to enhance performance and maintainability of time data transformations
-- **Objects for SelectedLocationWeather and GlobalWeather** - Improved handling of all weather-related data (both for the selected location and the randomized cities in the sidebar)
-
-### 11/08/2023
-- **Enabled PWA functionality** to improve offline usage and performance on mobile devices:
-  - Implemented service worker caching for faster load times and offline access
-  - Added manifest file with application icons for a full-screen immersive experience on supported devices
-  - Configured metadata for adding to homescreen on mobile devices.
