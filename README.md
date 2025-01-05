@@ -49,3 +49,9 @@
 - ✅ Refactor code (after learning new concepts)
 - ✅ Add option to download as PWA
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/35e2d69d-17da-45e6-8817-496c35af048a)
+![image](https://github.com/user-attachments/assets/58dd3120-63c4-49b5-8dda-61bfb545dbd3)
+![image](https://github.com/user-attachments/assets/54b70686-d3e6-4bf7-8bee-85deaa397809)
+
+
